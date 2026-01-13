@@ -1,3 +1,3 @@
 # SignX
 
-MediaPipe Hand pose Testing Model :
+MediaPipe Hand pose Testing Model:
