@@ -4,14 +4,14 @@ MediaPipe Hand pose Testing Model: https://storage.googleapis.com/tfjs-models/de
 
 # Folder & File Structure 
 
-                  sign-language-ml/
-                  │
-                  ├── data/
-                  ├── notebooks/
-                  ├── src/
-                  ├── models/
-                  ├── logs/
-                  ├── requirements.txt
-                  ├── README.md
-                  └── main.py
+    sign-language-ml/
+    │
+    ├── data/
+    ├── notebooks/
+    ├── src/
+    ├── models/
+    ├── logs/
+    ├── requirements.txt
+    ├── README.md
+    └── main.py
 
