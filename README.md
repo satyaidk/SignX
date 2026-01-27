@@ -26,15 +26,15 @@ MediaPipe Hand pose Testing Model: https://storage.googleapis.com/tfjs-models/de
     ├── models/
     │   └── sign_model.h5
     │
-├── src/
-│   ├── config.py                 # Constants & labels
-│   ├── extract_keypoints.py      # MediaPipe feature extraction
-│   ├── process_videos.py         # Video → sequences
-│   ├── train_model.py            # Model training
-│   └── live_detection.py         # Webcam inference
-│
-├── requirements.txt
-└── README.md
+    ├── src/
+    │   ├── config.py                 # Constants & labels
+    │   ├── extract_keypoints.py      # MediaPipe feature extraction
+    │   ├── process_videos.py         # Video → sequences
+    │   ├── train_model.py            # Model training
+    │   └── live_detection.py         # Webcam inference
+    │
+    ├── requirements.txt
+    └── README.md
 
 # Analogy:
 
