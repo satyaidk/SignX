@@ -19,13 +19,13 @@ MediaPipe Hand pose Testing Model: https://storage.googleapis.com/tfjs-models/de
     ├── processed_data/               # Extracted keypoints (numpy)
     │   ├── hello/
     │   ├── hi/
-│   ├── how_are_you/
-│   ├── whats_up/
-│   └── you_good/
-│
-├── models/
-│   └── sign_model.h5
-│
+    │   ├── how_are_you/
+    │   ├── whats_up/
+    │   └── you_good/
+    │
+    ├── models/
+    │   └── sign_model.h5
+    │
 ├── src/
 │   ├── config.py                 # Constants & labels
 │   ├── extract_keypoints.py      # MediaPipe feature extraction
