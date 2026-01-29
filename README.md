@@ -4,7 +4,7 @@ MediaPipe Hand pose Testing Model: https://storage.googleapis.com/tfjs-models/de
 
 # Folder & File Structure 
 ```
-sign_model_phase_1/
+signX/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
